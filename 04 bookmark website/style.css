@@ -1,0 +1,37 @@
+body {
+background-color: #e3f0fb;
+text-align: center;
+}
+
+h2{
+    background-color: #74d4d4;
+    color: #e3f0fb;
+    text-align:justify;
+    padding: 0.5rem 1rem;
+}
+
+h2:hover{
+    color: rgb(236, 145, 8);
+}
+
+li{
+    text-align: start;
+    list-style: decimal-leading-zero;
+    padding: 0.25rem 0;
+}
+
+
+li a {
+    color: #217ee2;
+    text-decoration: none;
+    padding: 0.1rem 0.25rem;
+    width: 80vw;
+}
+
+li a:hover{
+    text-align: center;
+    border: groove 2px #edeeef;
+    background-color: #d2dfe5;
+    font-size: 1.25em   ;
+    padding: 2px 5vw;
+}
