@@ -34,9 +34,8 @@ li a {
 }
 
 li:hover{
-    text-align: center;
     border: groove 2px #edeeef;
     background-color: #d2dfe5;
-    font-size: 1.25em   ;
-    padding: 0.1rem 0;
+    font-size: 1.25rem;
+    padding: 0.1rem 1rem;
 }
