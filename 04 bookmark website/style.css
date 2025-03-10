@@ -26,18 +26,17 @@ li{
     padding: 0.25rem 0;
 }
 
-
 li a {
     color: #217ee2;
     text-decoration: none;
-    padding: 0.1rem 0.25rem;
+    padding: 1.25rem 0.25rem;
     width: 80vw;
 }
 
-li a:hover{
+li:hover{
     text-align: center;
     border: groove 2px #edeeef;
     background-color: #d2dfe5;
     font-size: 1.25em   ;
-    padding: 2px 5vw;
+    padding: 0.1rem 0;
 }
